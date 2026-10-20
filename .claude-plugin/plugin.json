@@ -1,0 +1,23 @@
+{
+  "name": "smdd-toolkit",
+  "version": "1.0.0",
+  "description": "Structured Markdown Driven Development skills for Claude Code. Plan projects as prose markdown before writing a line of code, then build component-by-component with atomic, parallel-safe sub-agents.",
+  "author": {
+    "name": "cyvnrs",
+    "url": "https://github.com/cyvnrs"
+  },
+  "homepage": "https://github.com/cyvnrs/smdd-toolkit",
+  "repository": "https://github.com/cyvnrs/smdd-toolkit",
+  "license": "MIT",
+  "keywords": [
+    "smdd",
+    "structured-markdown-driven-development",
+    "planning",
+    "markdown-first",
+    "agents",
+    "sub-agents",
+    "orchestration",
+    "documentation",
+    "claude-code"
+  ]
+}
